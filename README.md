@@ -59,7 +59,9 @@ ANSWER: UNIT- testing the modulles one after the other
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 ANSWER: Prompy engineering is the means of creating a specific,understandable and more coincise question to a chatbot in articial intelligence in other to recieve a specific and straight forward response in return from AI models
+
 IMPORTANCE: it heps in giving an understandable and specific response
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
